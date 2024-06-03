@@ -1,6 +1,5 @@
 /* - use of single line comments
    - limit to 80 characters per line */
-   
 // import statements
 import java.util.Scanner;
 import java.math.*;
